@@ -33,7 +33,7 @@ $ ./result/bin/mermaid-ascii --help
 
 ## Usage
 
-You can render graphs directly from the command line or start a web interface to render them interactively.
+You can render graphs directly from the command line or start a web interface to render them interactive.
 
 ```bash
 $ cat test.mermaid
